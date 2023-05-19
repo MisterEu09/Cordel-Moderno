@@ -58,7 +58,7 @@ section.normal{
 }
 section.imagem>p{
     display: block;
-    width: 300px;
+    width: auto;
     background-color: rgba(0, 0, 0, 0.499);
     text-shadow: 2px 2px 0px black;
 }
